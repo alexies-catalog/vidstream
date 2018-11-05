@@ -1,4 +1,4 @@
-# mfi
+# Initial Command to setup
 1. composer update --no-scripts
 2. Connect the database to environment (.env)
 3. php artisan migrate
